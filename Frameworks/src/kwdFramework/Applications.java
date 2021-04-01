@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import utils.GenericMethods;
 
 public class Applications {
-
+// Test for code change update on GIThub
 	@Test
 	public void invalidLoginTest() throws IOException {
 		String data[][] = GenericMethods.getData("D:\\development\\documents\\TestDataLocal.xlsx", "sheet2");
